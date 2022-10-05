@@ -1,7 +1,10 @@
 # SPSGP-67917-Virtual-Internship---Android-Application-Development-Using-Kotlin
 Virtual Internship - Android Application Development Using Kotlin
-SBID:SPS_APL_20220076028PROJECT 1:An Android Application To Search Nearby Business Using Kotlin 
+SBID:SPS_APL_20220076028
+
+PROJECT 1:An Android Application To Search Nearby Business Using Kotlin 
 PROJECT 2:Grocery Android App
+
 Project Description:
 NearBy Bussiness Search - A mobile app is built where the user can search for his nearby locations based on his requirement. Whenever the user gives input of business type like a hotel, petrol pumps, hospitals, etc. using Place API and as a response we obtain the co-ordinates that are marked on the Google map.
 This app uses Google maps to show up the results for which the user search for in this application. This helps the users to get to know the location of their required business place by just making a one time search. This appilcation makes ease of searching various  types of business sectors to reduce complexity especially for job seekers.
